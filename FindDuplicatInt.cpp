@@ -1,4 +1,3 @@
-// FindDuplicatInt.cpp
 
 #include<iostream>
 #include<iomanip>
